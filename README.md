@@ -31,7 +31,7 @@ Screenshots are loaded from `Assets/screenshot/`. Use any of the options below.
 
 Add a single image as **`Assets/screenshot/preview.png`**:
 
-![Japhařy System](Assets/screenshot/preview.png)
+![Japhařy System](Assets/screenshot/01.jpg)
 
 ### Option B — Multiple views
 
@@ -39,11 +39,11 @@ Add separate images for each section and they will show in the table:
 
 | Home — Projects & Messages | Analytics — Live from dashboard |
 |:--------------------------:|:--------------------------------:|
-| ![Dashboard Home](Assets/screenshot/home.png) | ![Analytics](Assets/screenshot/analytics.png) |
+| ![Dashboard Home](Assets/screenshot/01.jpg) | ![Analytics](Assets/screenshot/02.jpg) |
 
 | Calendar | Settings |
 |:--------:|:--------:|
-| ![Calendar](Assets/screenshot/calendar.png) | ![Settings](Assets/screenshot/settings.png) |
+| ![Calendar](Assets/screenshot/03.jpg) | ![Settings](Assets/screenshot/04.jpg) |
 
 **Suggested filenames:** `preview.png`, `home.png`, `analytics.png`, `calendar.png`, `settings.png` (PNG or JPG both work).
 
